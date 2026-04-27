@@ -1,22 +1,40 @@
-### Hi, I'm Diego 👋
+### Diego Ferreyra
+**Senior Angular Developer · Córdoba, Argentina**
 
-Senior Angular Developer based in Córdoba, Argentina, with 13+ years 
-building production web applications across healthcare, hospitality, 
-and biotech.
+13+ years building Angular applications — from AngularJS migrations to 
+Angular 18 — for enterprise clients (Royal Caribbean, Ricoh), HIPAA-compliant 
+healthcare platforms, and biotech research tools.
 
-**What I do**
-- Angular (AngularJS through 18+) and full-stack JavaScript with Node.js
-- Data visualization with D3.js (Sage Bionetworks / Agora Alzheimer's research platform)
-- HIPAA-compliant healthcare platforms, large-scale booking systems, 
-  real-time monitoring dashboards
+#### Selected work
 
-**Recent**
-- Open-source contributor to [Cline](https://github.com/cline/cline) — 
-  AI coding agent (write_file tool reliability improvements, community triage)
-- Toptal Angular Academy certified
+- **[Cline](https://github.com/cline/cline)** — Open-source AI coding agent. 
+  Contributed reliability improvements to the `write_file` tool (fallback 
+  logic for failed file operations) and helped triage community issues 
+  during the project's growth phase. 
+  [→ view PRs](https://github.com/cline/cline/pulls?q=is%3Apr+author%3AClineXDiego+is%3Aclosed) 
+  *(authored via company account `ClineXDiego`)*
 
-**Stack**
-Angular · TypeScript · RxJS · Node.js · MongoDB · D3.js · REST APIs
+- **Agora (Sage Bionetworks)** — Angular + D3.js network visualization 
+  helping researchers prioritize Alzheimer's drug-target candidates by 
+  making complex biological relationships navigable.
 
-🌐 [Toptal profile](https://www.toptal.com/resume/diego-ferreyra) · 
-💼 [LinkedIn](https://www.linkedin.com/in/diego-e-ferreyra) 
+- **Royal Caribbean booking platform** — Angular feature development and 
+  performance work on a high-traffic travel booking system.
+
+- **ADS Environmental Services** — Angular dashboard for real-time 
+  wastewater flow, level, and rainfall monitoring across U.S. utility 
+  infrastructure.
+
+#### Stack
+
+Angular (AngularJS → 18+) · TypeScript · RxJS · Node.js · MongoDB · 
+D3.js · REST APIs
+
+#### Currently
+
+Available for senior Angular and full-stack JavaScript engagements 
+through [Toptal](https://www.toptal.com/resume/diego-ferreyra).
+
+#### Connect
+
+[LinkedIn](https://www.linkedin.com/in/diego-e-ferreyra) · diegof18@gmail.com
