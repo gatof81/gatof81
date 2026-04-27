@@ -1,6 +1,8 @@
 ### Diego Ferreyra
 **Senior Angular Developer · Córdoba, Argentina**
 
+📄 [CV (PDF)](https://github.com/gatof81/cv) · 💼 [Toptal profile](https://www.toptal.com/resume/diego-ferreyra)
+
 13+ years building Angular applications — from AngularJS migrations to 
 Angular 18 — for enterprise clients (Royal Caribbean, Ricoh), HIPAA-compliant 
 healthcare platforms, and biotech research tools.
@@ -37,4 +39,4 @@ through [Toptal](https://www.toptal.com/resume/diego-ferreyra).
 
 #### Connect
 
-[LinkedIn](https://www.linkedin.com/in/diego-e-ferreyra) · diegof18@gmail.com
+[LinkedIn](https://www.linkedin.com/in/diego-e-ferreyra) · [diegof18@gmail.com](mailto:diegof18@gmail.com)
