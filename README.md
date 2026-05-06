@@ -1,13 +1,19 @@
 ### Diego Ferreyra
 **Senior Angular Developer · Córdoba, Argentina**
 
-13+ years building Angular applications — from AngularJS migrations to 
-modern Angular 18+ — for enterprise clients, healthcare platforms, biotech 
-research tools, and high-traffic consumer products.
+I’m a senior Angular / full-stack JavaScript developer with 13+ years of 
+experience building complex web applications, from AngularJS migrations to 
+modern Angular 18+ platforms.
 
-I’m a Toptal developer and senior frontend/full-stack JavaScript engineer, 
-focused on Angular architecture, TypeScript, RxJS, performance, maintainability, 
-and complex UI development.
+My work has included enterprise platforms, healthcare products, biotech research 
+tools, and high-traffic consumer experiences for clients such as Royal Caribbean, 
+Ricoh, Sage Bionetworks, and ADS Environmental Services.
+
+I’m also part of the Toptal network, where I work with international clients on 
+senior Angular and JavaScript projects.
+
+On GitHub, I share experiments, tools, and personal projects around web 
+development, AI-assisted coding, real-time systems, and home automation.
 
 #### Selected work
 
@@ -18,8 +24,12 @@ and complex UI development.
   [→ view PRs](https://github.com/cline/cline/pulls?q=is%3Apr+author%3AClineXDiego+is%3Aclosed)  
   *(authored via company account `ClineXDiego`)*
 
+- **[Shared Terminal](https://github.com/gatof81/shared-terminal)** — Personal 
+  full-stack project for real PTY terminal sessions over WebSocket, with an 
+  xterm.js frontend and Node.js + TypeScript backend.
+
 - **Agora · Sage Bionetworks** — Angular + D3.js network visualization helping 
-  Researchers explore biological relationships and prioritize Alzheimer’s 
+  researchers explore biological relationships and prioritize Alzheimer’s 
   drug-target candidates.
 
 - **Royal Caribbean booking platform** — Angular feature development and 
@@ -30,7 +40,10 @@ and complex UI development.
 
 #### Stack
 
-Angular · TypeScript · RxJS · Node.js · MongoDB · D3.js · REST APIs
+**Core:** Angular · TypeScript · RxJS · JavaScript · HTML · SCSS  
+**Backend / data:** Node.js · REST APIs · MongoDB · PostgreSQL  
+**UI / visualization:** D3.js · xterm.js · Canvas API  
+**Tools:** GitHub · Docker · Cloudflare · AI-assisted development workflows
 
 #### Links
 
